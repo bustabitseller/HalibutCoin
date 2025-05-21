@@ -1,0 +1,1 @@
+// HalibutCoin CLI wallet source placeholder
